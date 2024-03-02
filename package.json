@@ -12,8 +12,8 @@
     "app"
   ],
   "author": {
-    "name": "Roman Svichar",
-    "email": "shmoop207@gmail.com"
+    "name": "Abraham Elijah",
+    "email": "gradeisageek@gmail.com"
   },
   "engines": {
     "node": ">= 12.x.x",
@@ -31,7 +31,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shmoop207/appolo-agent.git"
+    "url": "https://github.com/cgrade/yolo-agent.git"
   },
   "readme": "",
   "readmeFilename": "README.md",
