@@ -29,10 +29,7 @@
   "main": "./index.js",
   "version": "8.0.11",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/cgrade/yolo-agent.git"
-  },
+  "repository": "git//github.com/cgrade/yolo-agent.git",
   "readme": "",
   "readmeFilename": "README.md",
   "dependencies": {
